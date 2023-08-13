@@ -7,10 +7,10 @@ write about yourself
 <br>
 <br>
 # 📊 GitHub Stats:
-![](https://github-readmestats.vercel.app/api?username=Sanffred/Sanffred&theme=dark&hide_border
+![](https://github-readmestats.vercel.app/api?username=Sanffred&theme=dark&hide_border
 =false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streakstats.herokuapp.com/?user=Sanffred/Sanffred&theme=dark&hide_border=fal
+![](https://github-readme-streakstats.herokuapp.com/?user=Sanffred&theme=dark&hide_border=fal
 se)<br/>
-![](https://github-readme-stats.vercel.app/api/toplangs/?username=Sanffred/Sanffred&theme=dark&hide_border=false&inclu
+![](https://github-readme-stats.vercel.app/api/toplangs/?username=Sanffred&theme=dark&hide_border=false&inclu
 de_all_commits=true&count_private=true&layout=compact)
 
