@@ -2,8 +2,8 @@
 currently a student pursuing a degree in Information Technology at
 Mumbai University.</h3>
 <br>
-<b># 💫 About Me:</b>
-<br>
+# 💫 About Me:
+
 Hello there! I'm a second-year Information Technology student at Mumbai University, fueled by an insatiable curiosity for the tech realm and its boundless possibilities.
 
 Enthusiastic about development, I find joy in immersing myself in diverse tech workshops that allow me to explore a plethora of technologies. 
